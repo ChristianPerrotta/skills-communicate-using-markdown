@@ -6,3 +6,7 @@
 const someVariable = 'feh'
 console.log(someVariable)
 ```
+
+- [ ] Check stuff
+- [ ] Verify things
+- [ ] Make sure tasks are being performed
